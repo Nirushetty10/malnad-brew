@@ -68,7 +68,7 @@ export default function CoffeeSlider() {
         pt: { xs: 4, sm: 4 },
         // pb: { xs: 8, sm: 16 },
         color: "#06090a",
-        height: { sm: "600px", md: "600px" },
+        height: { sm: "800px", md: "600px" },
         // bgcolor: '#06090a',
       }}
     >

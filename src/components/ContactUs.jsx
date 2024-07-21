@@ -26,6 +26,7 @@ export default function ContactUs() {
           alignItems: 'center',
           gap: { xs: 3, sm: 6 },
           height : {xs : '250px', md: '120px' },
+          mt: {xs : 4 , md: 0},
           py:4
         }}
       >
